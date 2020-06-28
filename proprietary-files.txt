@@ -1,0 +1,129 @@
+
+# Audio
+
+# CNE
+product/etc/permissions/vendor.qti.hardware.data.connection-V1.0-java.xml
+product/etc/permissions/vendor.qti.hardware.data.connection-V1.1-java.xml
+
+# Camera
+
+# DRM
+
+# DRM-Widevine
+my_odm/vendor/firmware/widevine.b00
+my_odm/vendor/firmware/widevine.b01
+my_odm/vendor/firmware/widevine.b02
+my_odm/vendor/firmware/widevine.b03
+my_odm/vendor/firmware/widevine.b04
+my_odm/vendor/firmware/widevine.b05
+my_odm/vendor/firmware/widevine.b06
+my_odm/vendor/firmware/widevine.b07
+my_odm/vendor/firmware/widevine.mdt
+
+# Display-Hardware
+
+# Fingerprint
+my_odm/vendor/firmware/goodixfp.b00
+my_odm/vendor/firmware/goodixfp.b01
+my_odm/vendor/firmware/goodixfp.b02
+my_odm/vendor/firmware/goodixfp.b03
+my_odm/vendor/firmware/goodixfp.b04
+my_odm/vendor/firmware/goodixfp.b05
+my_odm/vendor/firmware/goodixfp.b06
+my_odm/vendor/firmware/goodixfp.b07
+my_odm/vendor/firmware/goodixfp.mdt
+
+# Firmware
+my_odm/vendor/firmware/alipay.b00
+my_odm/vendor/firmware/alipay.b01
+my_odm/vendor/firmware/alipay.b02
+my_odm/vendor/firmware/alipay.b03
+my_odm/vendor/firmware/alipay.b04
+my_odm/vendor/firmware/alipay.b05
+my_odm/vendor/firmware/alipay.b06
+my_odm/vendor/firmware/alipay.b07
+my_odm/vendor/firmware/alipay.mdt
+my_odm/vendor/firmware/cryptoeng.b00
+my_odm/vendor/firmware/cryptoeng.b01
+my_odm/vendor/firmware/cryptoeng.b02
+my_odm/vendor/firmware/cryptoeng.b03
+my_odm/vendor/firmware/cryptoeng.b04
+my_odm/vendor/firmware/cryptoeng.b05
+my_odm/vendor/firmware/cryptoeng.b06
+my_odm/vendor/firmware/cryptoeng.b07
+my_odm/vendor/firmware/cryptoeng.mdt
+my_odm/vendor/firmware/dxhdcp2.b00
+my_odm/vendor/firmware/dxhdcp2.b01
+my_odm/vendor/firmware/dxhdcp2.b02
+my_odm/vendor/firmware/dxhdcp2.b03
+my_odm/vendor/firmware/dxhdcp2.b04
+my_odm/vendor/firmware/dxhdcp2.b05
+my_odm/vendor/firmware/dxhdcp2.b06
+my_odm/vendor/firmware/dxhdcp2.b07
+my_odm/vendor/firmware/dxhdcp2.mdt
+my_odm/vendor/firmware/facereg.b00
+my_odm/vendor/firmware/facereg.b01
+my_odm/vendor/firmware/facereg.b02
+my_odm/vendor/firmware/facereg.b03
+my_odm/vendor/firmware/facereg.b04
+my_odm/vendor/firmware/facereg.b05
+my_odm/vendor/firmware/facereg.b06
+my_odm/vendor/firmware/facereg.b07
+my_odm/vendor/firmware/facereg.mdt
+my_odm/vendor/firmware/hdcpsrm.b00
+my_odm/vendor/firmware/hdcpsrm.b01
+my_odm/vendor/firmware/hdcpsrm.b02
+my_odm/vendor/firmware/hdcpsrm.b03
+my_odm/vendor/firmware/hdcpsrm.b04
+my_odm/vendor/firmware/hdcpsrm.b05
+my_odm/vendor/firmware/hdcpsrm.b06
+my_odm/vendor/firmware/hdcpsrm.b07
+my_odm/vendor/firmware/hdcpsrm.mdt
+my_odm/vendor/firmware/teemodel
+my_product/vendor/firmware/alipay.b00
+my_product/vendor/firmware/alipay.b01
+my_product/vendor/firmware/alipay.b02
+my_product/vendor/firmware/alipay.b03
+my_product/vendor/firmware/alipay.b04
+my_product/vendor/firmware/alipay.b05
+my_product/vendor/firmware/alipay.b06
+my_product/vendor/firmware/alipay.b07
+my_product/vendor/firmware/alipay.mdt
+
+# GPS
+
+# GPS-Hardware
+
+# Graphics
+
+# Listen
+
+# Media
+
+# Media-Hardware
+
+# Oppo
+my_product/vendor/etc/oppo_app_scale_list.xml
+my_product/vendor/etc/oppo_display_perf_list.xml
+my_product/vendor/etc/oppo_rc_bottom.png
+my_product/vendor/etc/oppo_rc_left.png
+my_product/vendor/etc/oppo_rc_right.png
+my_product/vendor/etc/oppo_rc_top.png
+
+# Perf
+
+# Postprocessing
+
+# QMI
+
+# Radio
+
+# Sensors
+
+# Time
+
+# WiFi
+
+# rootdir
+
+# Misc
